@@ -31,8 +31,3 @@ jobs:
             ## Step 4 : Run the test
             - name: Run tests
               run: pytest
-
-            
-            
-    
-
